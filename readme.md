@@ -1,6 +1,9 @@
 # Introduction
 This code repository is for domain adaptation of single cell datasets.
 
+[View interactive plot](https://raw.githack.com/harvey-bioturing/domain-adaptating-sc/main/eval_embs_scRNA_v2_PMID32971526.html)
+
+
 # Code usage 
 Prepare a data directory with the following structure:
 ```
